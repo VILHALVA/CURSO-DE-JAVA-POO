@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="719.0" y="206.0">course.oop.composition_over_inheritance.inheritance.FootballTeamU17</node>
+    <node x="0.0" y="206.0">course.oop.composition_over_inheritance.inheritance.BasketballTeamSenior</node>
+    <node x="1032.0" y="206.0">course.oop.composition_over_inheritance.inheritance.FootballTeamSenior</node>
+    <node x="1382.0" y="206.0">course.oop.composition_over_inheritance.inheritance.FootballTeamU20</node>
+    <node x="672.09375" y="0.0">course.oop.composition_over_inheritance.inheritance.Team</node>
+    <node x="1074.0" y="103.0">course.oop.composition_over_inheritance.inheritance.FootballTeam</node>
+    <node x="208.96875" y="103.0">course.oop.composition_over_inheritance.inheritance.BasketballTeam</node>
+    <node x="383.0" y="206.0">course.oop.composition_over_inheritance.inheritance.BasketballTeamU17</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="course.oop.composition_over_inheritance.inheritance.BasketballTeamU17" target="course.oop.composition_over_inheritance.inheritance.BasketballTeam">
+      <point x="0.0" y="-26.5" />
+      <point x="541.0" y="181.0" />
+      <point x="414.46875" y="181.0" />
+      <point x="68.5" y="26.5" />
+    </edge>
+    <edge source="course.oop.composition_over_inheritance.inheritance.BasketballTeamSenior" target="course.oop.composition_over_inheritance.inheritance.BasketballTeam">
+      <point x="0.0" y="-26.5" />
+      <point x="181.5" y="181.0" />
+      <point x="277.46875" y="181.0" />
+      <point x="-68.5" y="26.5" />
+    </edge>
+    <edge source="course.oop.composition_over_inheritance.inheritance.FootballTeamU20" target="course.oop.composition_over_inheritance.inheritance.FootballTeam">
+      <point x="0.0" y="-26.5" />
+      <point x="1526.0" y="181.0" />
+      <point x="1279.0" y="181.0" />
+      <point x="82.0" y="26.5" />
+    </edge>
+    <edge source="course.oop.composition_over_inheritance.inheritance.BasketballTeam" target="course.oop.composition_over_inheritance.inheritance.Team">
+      <point x="0.0" y="-26.5" />
+      <point x="345.96875" y="78.0" />
+      <point x="705.59375" y="78.0" />
+      <point x="-33.5" y="26.5" />
+    </edge>
+    <edge source="course.oop.composition_over_inheritance.inheritance.FootballTeam" target="course.oop.composition_over_inheritance.inheritance.Team">
+      <point x="0.0" y="-26.5" />
+      <point x="1197.0" y="78.0" />
+      <point x="772.59375" y="78.0" />
+      <point x="33.5" y="26.5" />
+    </edge>
+    <edge source="course.oop.composition_over_inheritance.inheritance.FootballTeamSenior" target="course.oop.composition_over_inheritance.inheritance.FootballTeam">
+      <point x="0.0" y="-26.5" />
+      <point x="0.0" y="26.5" />
+    </edge>
+    <edge source="course.oop.composition_over_inheritance.inheritance.FootballTeamU17" target="course.oop.composition_over_inheritance.inheritance.FootballTeam">
+      <point x="0.0" y="-26.5" />
+      <point x="865.5" y="181.0" />
+      <point x="1115.0" y="181.0" />
+      <point x="-82.0" y="26.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="835.0" y="129.5" />
+  <SelectedNodes>
+    <node>course.oop.composition_over_inheritance.inheritance.FootballTeamU17</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
